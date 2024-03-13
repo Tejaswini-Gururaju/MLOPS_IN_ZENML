@@ -1,0 +1,11 @@
+catboost==1.2.3
+joblib==1.1.0
+lightgbm==3.3.2
+optuna==2.10.0
+streamlit==1.8.1
+xgboost==1.5.2
+# markupspace==1.1.1
+zenml==0.55.5
+pandas
+numpy
+scikit-learn
