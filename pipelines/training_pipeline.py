@@ -10,7 +10,7 @@ from src.evaluation_model import MSE,R2,RMSE
 from pathlib import Path
 
 
-@pipeline(enable_cache=False)
+@pipeline(enable_cache=True)
 def train_pipeline(data_path:str):
     df = ingest_data(data_path)
     x_train,x_test,y_train,y_test=clean_data(df)

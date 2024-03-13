@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/f829c3849d5348268de79e25dd941753/artifacts
+end_time: 1710349033958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f829c3849d5348268de79e25dd941753
+run_name: dashing-rook-915
+run_uuid: f829c3849d5348268de79e25dd941753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710349026458
+status: 3
+tags: []
+user_id: admin

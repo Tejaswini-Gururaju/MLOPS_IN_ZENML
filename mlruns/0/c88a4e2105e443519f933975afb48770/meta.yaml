@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/c88a4e2105e443519f933975afb48770/artifacts
+end_time: 1710349020218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c88a4e2105e443519f933975afb48770
+run_name: victorious-horse-857
+run_uuid: c88a4e2105e443519f933975afb48770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710348859185
+status: 3
+tags: []
+user_id: admin

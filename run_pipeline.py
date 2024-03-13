@@ -1,6 +1,8 @@
 from pipelines.training_pipeline import train_pipeline
-from pathlib import Path
+from zenml.client import Client
 
 if __name__=="__main__":
+    print(Client().active_stack.experiment_tracker.get_tracking_uri())
     #Run the pipeline
+
     train_pipeline(data_path="D:\MLOPS_IN_ZENML\data\olist_customers_dataset.csv")
