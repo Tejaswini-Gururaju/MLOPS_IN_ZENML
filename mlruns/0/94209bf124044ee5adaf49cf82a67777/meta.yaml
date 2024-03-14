@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/94209bf124044ee5adaf49cf82a67777/artifacts
+end_time: 1710413617045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94209bf124044ee5adaf49cf82a67777
+run_name: capable-pig-533
+run_uuid: 94209bf124044ee5adaf49cf82a67777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710413551540
+status: 3
+tags: []
+user_id: admin

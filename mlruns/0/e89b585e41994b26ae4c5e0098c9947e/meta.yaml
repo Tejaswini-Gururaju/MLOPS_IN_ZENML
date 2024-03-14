@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/e89b585e41994b26ae4c5e0098c9947e/artifacts
+end_time: 1710414742048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89b585e41994b26ae4c5e0098c9947e
+run_name: intelligent-bass-835
+run_uuid: e89b585e41994b26ae4c5e0098c9947e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710414710268
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/4b01a28239b44a66a09537d9b5d70f6f/artifacts
+end_time: 1710417177518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b01a28239b44a66a09537d9b5d70f6f
+run_name: unruly-fox-702
+run_uuid: 4b01a28239b44a66a09537d9b5d70f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710417067301
+status: 3
+tags: []
+user_id: admin

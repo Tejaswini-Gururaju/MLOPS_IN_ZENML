@@ -1,0 +1,34 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.3
+mlflow_version: 2.10.2
+model_size_bytes: 951
+model_uuid: 5ec5e84457074430973d7585bbc992cd
+run_id: 94209bf124044ee5adaf49cf82a67777
+signature:
+  inputs: '[{"type": "long", "name": "payment_sequential", "required": true}, {"type":
+    "long", "name": "payment_installments", "required": true}, {"type": "double",
+    "name": "payment_value", "required": true}, {"type": "double", "name": "price",
+    "required": true}, {"type": "double", "name": "freight_value", "required": true},
+    {"type": "double", "name": "product_name_lenght", "required": true}, {"type":
+    "double", "name": "product_description_lenght", "required": true}, {"type": "double",
+    "name": "product_photos_qty", "required": true}, {"type": "double", "name": "product_weight_g",
+    "required": true}, {"type": "double", "name": "product_length_cm", "required":
+    true}, {"type": "double", "name": "product_height_cm", "required": true}, {"type":
+    "double", "name": "product_width_cm", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    1]}}]'
+  params: null
+utc_time_created: '2024-03-14 10:52:34.646395'

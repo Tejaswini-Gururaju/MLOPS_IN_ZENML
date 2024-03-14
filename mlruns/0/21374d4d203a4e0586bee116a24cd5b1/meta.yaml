@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/21374d4d203a4e0586bee116a24cd5b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21374d4d203a4e0586bee116a24cd5b1
+run_name: kindly-mare-150
+run_uuid: 21374d4d203a4e0586bee116a24cd5b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710425196023
+status: 1
+tags: []
+user_id: admin

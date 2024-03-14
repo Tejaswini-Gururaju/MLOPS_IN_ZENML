@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/32e03b67b4df4e73a0cfc21ae0e590bb/artifacts
+end_time: 1710413134168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32e03b67b4df4e73a0cfc21ae0e590bb
+run_name: righteous-bear-644
+run_uuid: 32e03b67b4df4e73a0cfc21ae0e590bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710413078989
+status: 3
+tags: []
+user_id: admin

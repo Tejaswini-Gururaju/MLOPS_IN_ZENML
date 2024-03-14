@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/d9eb5ca13544476a87b6f248828f7e11/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9eb5ca13544476a87b6f248828f7e11
+run_name: industrious-bee-713
+run_uuid: d9eb5ca13544476a87b6f248828f7e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710413138609
+status: 1
+tags: []
+user_id: admin

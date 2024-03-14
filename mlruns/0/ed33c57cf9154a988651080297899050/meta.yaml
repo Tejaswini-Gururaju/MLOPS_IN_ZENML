@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/ed33c57cf9154a988651080297899050/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed33c57cf9154a988651080297899050
+run_name: inquisitive-swan-671
+run_uuid: ed33c57cf9154a988651080297899050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710415143176
+status: 1
+tags: []
+user_id: admin

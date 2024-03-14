@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_IN_ZENML/mlruns/0/279a50290be5476ab77ccd91fd7e979f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279a50290be5476ab77ccd91fd7e979f
+run_name: receptive-auk-203
+run_uuid: 279a50290be5476ab77ccd91fd7e979f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710417759891
+status: 1
+tags: []
+user_id: admin
